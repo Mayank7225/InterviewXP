@@ -3,6 +3,7 @@ export default function Page(){
         <section>
         <h1 className="font-bold">Coming Soon ..............</h1>
         <h1 className=""> Since placements are starting , will post regular updates.</h1>
+        <h1 className=""> Since placements are starting , will post regular updates coming very soon.</h1>
         </section>
     </main>
 }
