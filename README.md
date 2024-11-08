@@ -34,15 +34,15 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Interview-Xp</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    The project focuses on developing a platform that allows students to review and share their past interview experiences. This system aims to create a comprehensive database of interview questions, formats, and tips based on real experiences.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Mayank7225/InterviewXP/tree/main"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://interview-xp.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
